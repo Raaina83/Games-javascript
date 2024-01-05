@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.grid{
+    height: 450px;
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+img{
+    height: 150px;
+    width: 150px;
+    /* border: 1px solid black; */
+}
